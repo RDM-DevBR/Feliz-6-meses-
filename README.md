@@ -42,3 +42,39 @@ E ainda mais da maneira que tudo aconteceu...de um lado um homem lindo com um so
   </section>
 
   <div class="divider"></div>
+
+ <section class="gallery">
+  <h2>Nossos Momentos</h2>
+
+  <figure class="photo">
+    <img src="foto01.jpg" alt="0.0">
+    <figcaption>📅 Primeiro encontro</figcaption>
+  </figure>
+
+  <figure class="photo">
+    <img src="foto02.jpg" alt="0.6">
+    <figcaption>📅 Primeiro jantar</figcaption>
+  </figure>
+
+<figure class="photo">
+    <img src="foto03.jpg" alt="1.0">
+    <figcaption>📅 Primeiro dia dos namorados</figcaption>
+  </figure>
+
+<figure class="photo">
+    <img src="foto04.jpg" alt="1.6">
+    <figcaption>📅 Primeira Copa</figcaption>
+  </figure>
+
+<figure class="photo">
+    <img src="foto05.jpg">
+    <figcaption>📅 Primeira viagem</figcaption>
+  </figure>
+<figure class="photo">
+    <img src="foto06.jpg">
+    <figcaption>📅 E viveremos muitos outros momentos</figcaption>
+  </figure>
+
+</section> 
+
+  <div class="divider"></div>
