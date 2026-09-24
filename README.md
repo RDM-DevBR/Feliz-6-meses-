@@ -17,9 +17,8 @@
   <section>
     <h2>Feliz 6 meses</h2>
     <p>
-      6 meses 
-
-Quem diria hein!? 
+       
+6 Meses Quem diria hein!? 
 
 E ainda mais da maneira que tudo aconteceu...de um lado um homem lindo com um sorriso encantador e do outro lado uma menina cheia de medos e receios, que aos poucos foi se entregando...  Você foi conseguindo me mostrar que onde iríamos entrar era um caminho seguro, que traria muito amor, carinho e respeito... Sou tão sua e sinto que você é tão meu... Já vivemos tantas coisas que não consigo lembrar como era minha vida há 6 meses atrás, te amo, te quero e vou lutar por nós sempre ❤❤❤❤❤❤! 
       
